@@ -1,10 +1,10 @@
 # Simple Library Management System
 
-A beginner-friendly MySQL database project for managing books, members, and borrowing transactions.
+ MySQL database project for managing books, members, and borrowing transactions.
 
 ## Project Overview
 
-This is a simple library management system built using MySQL. It demonstrates basic database concepts including table creation, relationships, CRUD operations, joins, stored procedures, and triggers.
+This is a library management system built using MySQL. It demonstrates basic database concepts including table creation, relationships, CRUD operations, joins, stored procedures, and triggers.
 
 ## Database Schema
 
@@ -55,15 +55,3 @@ source sample_data.sql
 - Triggers
 - Date functions
 
-## Resume Description
-
-**Simple Library Management System**
-- Designed and implemented a MySQL database for library operations with 4 normalized tables
-- Created stored procedures for book borrowing with automatic availability updates
-- Implemented triggers for calculating late fees on book returns
-- Wrote 10+ SQL queries including JOINs and aggregate functions for reporting
-- Demonstrated database normalization, indexing, and referential integrity
-
-## Author
-
-Final Year Student Project - Database Management Systems
